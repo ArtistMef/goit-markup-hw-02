@@ -82,7 +82,9 @@ ul, ol{
 
 .header-menu-list {
 }
-.header-menu-link {}
+.header-menu-link {
+    font-weight: 500;
+}
 .header-menu-link:hover, 
 .header-menu-link:focus {
     color: var(--ocean);
